@@ -1,5 +1,5 @@
 {
-  "name": "dayOrNightTime",
+  "name": "gettime-of-daybyzipcode",
   "version": "1.0.0",
   "description": "Get daytime and nighttime based on the zipcode",
   "main": "timeOfTheDay.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/darayuthhang/getTimeOfDayByZipcode.git"
   },
   "keyword":[
-    "dayOrNightTime"
+    "day-and-nighttime"
   ],
   "author": "darayuth hang",
   "license": "ISC",
