@@ -14,7 +14,11 @@
     "timeofday",
     "gettimeofday",
     "gettimeofdaybyzipcode",
-    "timebyzipcode"
+    "timebyzipcode",
+    "gettimeoftheday",
+    "timeoftheday",
+    "gettimeofthedaybyzipcode",
+    "zipcode"
   ],
   "author": "darayuth hang",
   "license": "ISC",
