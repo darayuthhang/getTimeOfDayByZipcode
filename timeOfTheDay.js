@@ -1,6 +1,5 @@
 const zipcode_to_timezone = require( 'zipcode-to-timezone' );
 const moment = require("moment-timezone");
-
 module.exports  = {
     /**
      * @description     - look up zip code to get timezone and return either day time or night time
