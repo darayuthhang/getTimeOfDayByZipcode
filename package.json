@@ -11,7 +11,10 @@
     "url": "git+https://github.com/darayuthhang/getTimeOfDayByZipcode.git"
   },
   "keywords": [
-    "timeofday"
+    "timeofday",
+    "gettimeofday",
+    "gettimeofdaybyzipcode",
+    "timebyzipcode"
   ],
   "author": "darayuth hang",
   "license": "ISC",
