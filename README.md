@@ -3,7 +3,11 @@
 Get daytime and nighttime based on the zipcode
 
 ## Installation
-`npm install gettimeofday-by-zipcode`
+```
+   npm install gettimeofday-by-zipcode
+   npm install moment-timezone
+   npm install zipcode-to-timezone
+```
 
 ```
 const timeOfTheday = require('gettimeofday-by-zipcode');
