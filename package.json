@@ -1,6 +1,6 @@
 {
   "name": "gettimeofday-by-zipcode",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Get daytime and nighttime based on the zipcode",
   "main": "timeOfTheDay.js",
   "scripts": {
