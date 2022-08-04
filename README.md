@@ -21,5 +21,5 @@ timeOfTheday.getTimeofTheDays(ZIP_CODE);
 The code above will return either a daytime or nighttime depending on
 the current time of the zipcode.
 
-this is two
+this is four
 
